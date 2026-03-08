@@ -5,6 +5,7 @@
 *.log
 *.err
 *.sv$
+*.dwg
 
 # macOS junk
 .DS_Store
