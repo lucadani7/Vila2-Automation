@@ -1,0 +1,10 @@
+# BricsCAD Temporary & Backup Files
+*.bak
+*.dwl
+*.dwl2
+*.log
+*.err
+*.sv$
+
+# macOS junk
+.DS_Store
